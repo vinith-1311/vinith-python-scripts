@@ -1,2 +1,2 @@
 # hello.py
-print("Hello, GitHub!")
+print("Hello.PY")
